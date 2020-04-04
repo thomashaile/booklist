@@ -1,2 +1,2 @@
 // Event: Display Books
-//document.addEventListener('DOMContentLoaded', UI.displayBooks);
+document.addEventListener('DOMContentLoaded', UI.displayBooks);
